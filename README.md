@@ -1,5 +1,5 @@
-# React Phone Catalog
-This is a Phone Catalog website created using following <a href="https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2&mode=dev">design<a/>, and built with <a href="https://react.dev/">React<a/>.
+# React Product Catalog
+This is a Gadget Store website created using following <a href="https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2&mode=dev">design<a/>, and built with <a href="https://react.dev/">React<a/>.
 
  ## About The Project
  This is a multipage online store website, that uses Redux to fetch and store the data from the API.
