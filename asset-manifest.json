@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-product-catalog/static/css/main.80ee8560.css",
+    "main.js": "/react-product-catalog/static/js/main.45244527.js",
+    "static/media/banner-phones.png": "/react-product-catalog/static/media/banner-phones.b4eeda8bd82b712057a2.png",
+    "static/media/banner-tablets.png": "/react-product-catalog/static/media/banner-tablets.a962057c1043a08f7737.png",
+    "static/media/Mont-Regular.otf": "/react-product-catalog/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "/react-product-catalog/static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "/react-product-catalog/static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/category-accessories.png": "/react-product-catalog/static/media/category-accessories.4333225f60026e318040.png",
+    "static/media/category-tablets.png": "/react-product-catalog/static/media/category-tablets.4343567d2450e9a7ae36.png",
+    "static/media/category-phones.png": "/react-product-catalog/static/media/category-phones.a089d6e24ff703f7f107.png",
+    "static/media/banner-accessories.png": "/react-product-catalog/static/media/banner-accessories.bdd2e0fca0159e52f41c.png",
+    "static/media/banner-phones-mob.jpg": "/react-product-catalog/static/media/banner-phones-mob.5b08c418e707a7cd0ebb.jpg",
+    "static/media/banner-tablets-mob.jpg": "/react-product-catalog/static/media/banner-tablets-mob.b48bff67751a30c8cbb3.jpg",
+    "static/media/banner-accessories-mob.jpg": "/react-product-catalog/static/media/banner-accessories-mob.872117fd2d30e42711ba.jpg",
+    "static/media/Cart.svg": "/react-product-catalog/static/media/Cart.5020f1ab3c7963ea003ef0e6daf99269.svg",
+    "static/media/Favourites.svg": "/react-product-catalog/static/media/Favourites.bad2bff890800d85a2400b2984f1ab12.svg",
+    "static/media/Logo.svg": "/react-product-catalog/static/media/Logo.2d8d3e42e8ed3af32cbb59f9b5fc7b4a.svg",
+    "static/media/Home.svg": "/react-product-catalog/static/media/Home.f28213b9be758981c870.svg",
+    "static/media/Favourites-filled.svg": "/react-product-catalog/static/media/Favourites-filled.0adbb61bbc593d135bdb.svg",
+    "static/media/icon-search.svg": "/react-product-catalog/static/media/icon-search.1e77bbf11368a75dc2b8.svg",
+    "static/media/menu-burger.svg": "/react-product-catalog/static/media/menu-burger.ae3154a3204d10c2af69.svg",
+    "static/media/icon-close-primary-menu.svg": "/react-product-catalog/static/media/icon-close-primary-menu.f7a7f79ecdf240005c02.svg",
+    "static/media/icon-close-primary.svg": "/react-product-catalog/static/media/icon-close-primary.8cef8ca337ebd995ff2c.svg",
+    "static/media/icon-close.svg": "/react-product-catalog/static/media/icon-close.0be1ed2ae77775e4e630.svg",
+    "static/media/icon-plus.svg": "/react-product-catalog/static/media/icon-plus.60b4bc00b53298abd3e7.svg",
+    "static/media/Arrow.svg": "/react-product-catalog/static/media/Arrow.af87a5147f2f49f21f05.svg",
+    "static/media/Arrow_disabled.svg": "/react-product-catalog/static/media/Arrow_disabled.a374b573155c92815583.svg",
+    "static/media/arrow-down.svg": "/react-product-catalog/static/media/arrow-down.6a1c94bb9d6a68d1a098.svg",
+    "static/media/arrow-up.svg": "/react-product-catalog/static/media/arrow-up.bca5376b1db38a7323e9.svg",
+    "index.html": "/react-product-catalog/index.html",
+    "main.80ee8560.css.map": "/react-product-catalog/static/css/main.80ee8560.css.map",
+    "main.45244527.js.map": "/react-product-catalog/static/js/main.45244527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80ee8560.css",
+    "static/js/main.45244527.js"
+  ]
+}
