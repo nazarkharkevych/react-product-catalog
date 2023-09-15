@@ -37,7 +37,7 @@ This is a Phone Catalog website created using following <a href="https://www.fig
   </ul>
 
  ## Project link
-  https://nazarkharkevych.github.io/react-phone-catalog
+  https://nazarkharkevych.github.io/react-product-catalog
 
  ## Design link
   https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2&mode=dev
@@ -45,7 +45,7 @@ This is a Phone Catalog website created using following <a href="https://www.fig
  ## Installation
   Clone the repo
 
-     git clone https://github.com/nazarkharkevych/react-phone-catalog.git
+     git clone https://github.com/nazarkharkevych/react-product-catalog.git
 
   Install NPM packages
 
