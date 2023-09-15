@@ -3,7 +3,7 @@ import { Logo } from '@/components/Logo';
 import './Footer.scss';
 
 enum Links {
-  Github = 'https://github.com/nazarkharkevych/react-phone-catalog',
+  Github = 'https://github.com/nazarkharkevych/react-product-catalog',
 }
 
 export const Footer: React.FC = () => {
