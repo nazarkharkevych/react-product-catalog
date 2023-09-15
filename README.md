@@ -1,46 +1,56 @@
-# Getting Started with Create React App
+# React Product Catalog
+This is a Gadget Store website created using following <a href="https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2&mode=dev">design<a/>, and built with <a href="https://react.dev/">React<a/>.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ ## About The Project
+ This is a multipage online store website, that uses Redux to fetch and store the data from the API.
+ 
+ The app has features like searching, sorting the products, pagination, and adding items to favorites or cart.
+ 
+ The app also uses URL search parameters to store applied filters and local storage to persist data after page refresh.
 
-## Available Scripts
+ ## Built With
+  <ul>
+    <li>
+      <a href="https://react.dev/">
+        React
+      </a>
+       + 
+      <a href="https://www.typescriptlang.org/">
+        TypeScript
+      </a>
+    </li>
+    <li>
+      <a href="https://redux.js.org/">
+        Redux
+      <a/>
+    </li>
+    <li>
+      <a href="https://reactrouter.com/en/main">
+        react-router
+      <a/>
+    </li>
+    <li>
+      <a href="https://sass-lang.com/">
+        Sass
+      <a/>
+    </li>
+  </ul>
 
-In the project directory, you can run:
+ ## Project link
+  https://nazarkharkevych.github.io/react-product-catalog
 
-### `npm start`
+ ## Design link
+  https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?node-id=1%3A2&mode=dev
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+ ## Installation
+  Clone the repo
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+     git clone https://github.com/nazarkharkevych/react-product-catalog.git
 
-### `npm test`
+  Install NPM packages
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+     npm install
 
-### `npm run build`
+  Start the app
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+     npm start
