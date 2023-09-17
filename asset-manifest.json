@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-product-catalog/static/css/main.80ee8560.css",
-    "main.js": "/react-product-catalog/static/js/main.e7cedab2.js",
+    "main.css": "/react-product-catalog/static/css/main.76758a2c.css",
+    "main.js": "/react-product-catalog/static/js/main.f9001aba.js",
     "static/media/banner-phones.png": "/react-product-catalog/static/media/banner-phones.b4eeda8bd82b712057a2.png",
     "static/media/banner-tablets.png": "/react-product-catalog/static/media/banner-tablets.a962057c1043a08f7737.png",
     "static/media/Mont-Regular.otf": "/react-product-catalog/static/media/Mont-Regular.1d26d89f7339866d3133.otf",
@@ -30,11 +30,11 @@
     "static/media/arrow-down.svg": "/react-product-catalog/static/media/arrow-down.6a1c94bb9d6a68d1a098.svg",
     "static/media/arrow-up.svg": "/react-product-catalog/static/media/arrow-up.bca5376b1db38a7323e9.svg",
     "index.html": "/react-product-catalog/index.html",
-    "main.80ee8560.css.map": "/react-product-catalog/static/css/main.80ee8560.css.map",
-    "main.e7cedab2.js.map": "/react-product-catalog/static/js/main.e7cedab2.js.map"
+    "main.76758a2c.css.map": "/react-product-catalog/static/css/main.76758a2c.css.map",
+    "main.f9001aba.js.map": "/react-product-catalog/static/js/main.f9001aba.js.map"
   },
   "entrypoints": [
-    "static/css/main.80ee8560.css",
-    "static/js/main.e7cedab2.js"
+    "static/css/main.76758a2c.css",
+    "static/js/main.f9001aba.js"
   ]
 }
