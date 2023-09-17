@@ -49,8 +49,6 @@ export const CartItem: React.FC<Props> = ({ item }) => {
           <img
             src={imageUrl}
             alt={name}
-            width="66"
-            height="66"
           />
         </Link>
 

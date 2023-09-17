@@ -45,7 +45,6 @@
 
   &__image {
     order: -1;
-    flex-shrink: 0;
 
     @include onMediumScreen {
       padding: 7px;
@@ -54,9 +53,10 @@
     }
 
     & > img {
-      min-width: 100px;
-      min-height: 100px;
+      min-width: 66px;
+      max-width: 100px;
       width: 100%;
+      object-fit: contain;
 
       @include onMediumScreen {
         max-width: 66px;
